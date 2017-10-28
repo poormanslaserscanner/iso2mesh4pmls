@@ -1,3 +1,6 @@
 [submodule "iso2mesh"]
 	path = iso2mesh
 	url = https://github.com/fangq/iso2mesh.git
+[submodule "iso2mesh_bin"]
+	path = iso2mesh_bin
+	url = https://github.com/poormanslaserscanner/iso2mesh_bin.git
